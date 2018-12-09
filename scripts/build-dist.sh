@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 DIST_DIR=$(pwd)/dist
-SRC_DIR=src
+SRC_DIR=gocsv
 EXECUTABLE=gocsv
 
 GIT_HASH=$(git rev-parse HEAD)
