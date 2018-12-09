@@ -1,3 +1,4 @@
+github.com/DataFoxCo/gocsv v0.0.0-20181209185836-57a1c8335b16 h1:+oqRLkyN31uQUC7eV+zzyXWlwvA7dl36nl0M54JO11Y=
 github.com/alphagov/router v0.0.0-20161125164013-5d98b0d9fc19 h1:LX9H/VztLww9xtRK5O1coSCiRkF0UqLZytIMzg8CYUU=
 github.com/alphagov/router v0.0.0-20161125164013-5d98b0d9fc19/go.mod h1:Mp21fDX6h4wMwSzsItDP+UtNLAlQOZZIXu6/YsyQae0=
 github.com/mattn/go-sqlite3 v1.0.1-0.20150807032509-0fa27b5cb05c h1:zs99zFsZn1DKeW4wkNZjFxNC4lWawORDE6IFej7do9A=
