@@ -1,6 +1,6 @@
 package main
 
-import gocsv "github.com/DataFoxCo/gocsv/cmd"
+import gocsv "github.com/itsursujit/gocsv/cmd"
 
 func main() {
 	gocsv.Main()

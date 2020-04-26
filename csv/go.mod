@@ -1,1 +1,3 @@
-module github.com/DataFoxCo/gocsv/csv
+module github.com/itsursujit/gocsv/csv
+
+go 1.13
